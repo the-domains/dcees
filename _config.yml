@@ -1,0 +1,28 @@
+name: DCeeS
+favicon: null
+layout_spectrum: 0.6435947411227971
+typography_spectrum: 0.3910131920129061
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.040666358545422554
+  lightness: 0.1745963783469051
+  saturation: 0.31386667187325656
+  rhythmicContrast: 0.1765035365242511
+purpose: []
